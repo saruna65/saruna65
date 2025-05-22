@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate software developer and designer who enjoy
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saruna65&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=saruna65&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=saruna65&theme=whatsapp-light2)](https://git.io/streak-stats)
 
 ---
 
