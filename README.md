@@ -8,3 +8,8 @@ Welcome to my GitHub! I'm a passionate software developer and designer who enjoy
 
 ---
 
+## 🛠️ Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saruna65&layout=compact&theme=default)
+
+
